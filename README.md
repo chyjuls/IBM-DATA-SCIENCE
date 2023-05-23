@@ -13,9 +13,9 @@ This repository contains projects that I've completed for the IBM Data Science P
 
 1. Data Cleaning
 2. Data Analysis
-3.Data Visualization
-4.Machine Learning
-5.Predictive Modeling
+3. Data Visualization
+4. Machine Learning
+5. Predictive Modeling
 and more...
 
 ## Tools & Languages Used
