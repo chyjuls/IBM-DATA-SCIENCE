@@ -1,6 +1,8 @@
 # Final Capstone Project for the IBM Data Science Professional Certificate.<br>
 
-After six months of study, the capstone project is here!  
+After six months of study, the capstone project is here!
 
-The project starts with data cleaning and  wrangling of Space data scraped from the internet using an API key.
-The next step will be to make some 'sense' of the data by analysis.
+The project starts with data cleaning and wrangling of space data scraped from the internet using an API key.
+The next step will be to make some 'sense' of the data through analysis.
+This project also showcases the use of git (version control) and how this can be used in project collaboration within teams by checking out and merging branches.
+
