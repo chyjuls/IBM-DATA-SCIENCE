@@ -8,12 +8,12 @@ This project also showcases the use of git (version control) and how this can be
 
 ## Capstone Project Contents:  
 
-* Week One: Data Collection (Web Scraping(API/BeautifulSoup) and Cleaning  
+*Week One: Data Collection (Web Scraping(API/BeautifulSoup) and Cleaning  
 
-* Week Two: Data Wrangling and Visialisation  
+Week Two: Data Wrangling and Visialisation  
 
-* Week Three: Data Analysis with SQLite  
+Week Three: Data Analysis with SQLite  
 
-* Week Four: Predictive Analsyis (Classification models, Logistic Regression, Decision Trees.etc.)  
+Week Four: Predictive Analsyis (Classification models, Logistic Regression, Decision Trees.etc.)  
 
-* Week Five: Project Presentation
+Week Five: Project Presentation
