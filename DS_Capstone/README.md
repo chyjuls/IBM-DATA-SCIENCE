@@ -8,7 +8,7 @@ This project also showcases the use of git (version control) and how this can be
 
 ## Capstone Project Contents:  
 
-*Week One: Data Collection (Web Scraping(API/BeautifulSoup) and Cleaning  
++ Week One: Data Collection (Web Scraping(API/BeautifulSoup) and Cleaning  
 
 Week Two: Data Wrangling and Visialisation  
 
